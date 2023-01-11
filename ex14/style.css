@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aqua;
+    font-size: 20px;
+ }
+
+ h1{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: salmon;
+ }
+
+ h2{
+     color: chartreuse;
+ }
+
+ p{
+     text-align: justify;
+ }
